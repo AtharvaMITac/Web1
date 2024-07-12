@@ -1,1 +1,1 @@
-# Web1
+# Website built With HTML, CSS, and JavaScript
